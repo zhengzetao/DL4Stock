@@ -3,22 +3,23 @@ This is the project for deep learning in stock market prediction.
 
 # Paper List covered in the survey
 
-* Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach
-* CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets
-* Temporal Relational Ranking for Stock Prediction
-* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns
-* Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis
+* Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach (AAAI 2020)
+* CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets (IJCAI 2019)
+* Temporal Relational Ranking for Stock Prediction (TOIS 2019)
+* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns (KDD 2017)
+* Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis (NeurIPS 2019)
 * HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction
-* Transformer-Based Capsule Network For Stock Movement Prediction
+* Transformer-Based Capsule Network For Stock Movement Prediction (IJCAI 2019)
 * Forecasting the Dubai financial market with a combination of momentum effect with a deep belief network
-* Enhancing Stock Movement Prediction with Adversarial Training
-* A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series
+* Enhancing Stock Movement Prediction with Adversarial Training (IJCAI 2019)
+* A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series 
 * A Numerical-Based Attention Method for Stock Market Prediction With Dual Information
-* Cross-domain Deep Learning Approach for Multiple Financial Market Prediction
+* Cross-domain Deep Learning Approach for Multiple Financial Market Prediction (IJCNN 2018)
 * EAN: Event Attention Network for Stock Price Trend Prediction based on Sentimental Embedding
 * Financial series prediction using Attention LSTM
-* Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News
-* Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction
+* Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction (CIKM 2018)
+* Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News (CIKM 2018)
+* Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction (WSDM 2018)
 * Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection
 * A Multi-indicator Feature Selection for CNN-Driven Stock Index Prediction
 * Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach
