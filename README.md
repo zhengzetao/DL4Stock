@@ -1,7 +1,10 @@
-# DL4Stock
+# DEEP Learning 4 Stock
 This is the project for deep learning in stock market prediction.
 
-# Paper List covered in the survey
+# Survey
+Financial Time Series Forecasting--A Deep Learning Approach 
+
+# Paper List (Conference & Journal)
 
 * Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach (AAAI 2020)
 * CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets (IJCAI 2019)
@@ -20,12 +23,10 @@ This is the project for deep learning in stock market prediction.
 * Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction (CIKM 2018)
 * Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News (CIKM 2018)
 * Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction (WSDM 2018)
-* Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection
-* A Multi-indicator Feature Selection for CNN-Driven Stock Index Prediction
+* Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection (ICONIP 2017)
+* A Multi-indicator Feature Selection for CNN-Driven Stock Index Prediction (ICONIP 2018)
 * Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach
-* Deep Learning for Event-Driven Stock Prediction
-* Financial Time Series Forecasting--A Deep Learning Approach
-* Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction
+* Deep Learning for Event-Driven Stock Prediction (IJCAI 2015)
 * Is Deep Learning for Image Recognition Applicable to Stock Market Prediction
 * Stock price forecasting model based on modified convolution neural network and financial time series analysis
 * Stock price prediction using lstm, rnn and cnn-sliding window model
