@@ -3,6 +3,7 @@ This is the project for deep learning in stock market prediction.
 
 # Paper List covered in the survey
 
+* Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach
 * CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets
 * Temporal Relational Ranking for Stock Prediction
 * Stock Price Prediction via Discovering Multi-Frequency Trading Patterns
