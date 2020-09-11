@@ -7,26 +7,32 @@ Financial Time Series Forecasting--A Deep Learning Approach
 # Paper List (Conference & Journal)
 
 * Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach (AAAI 2020)
+* Incorporating Expert-Based Investment Opinion Signals in Stock Prediction: A Deep Learning Framework (AAAI 2020)
+* Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction (IJCAI 2020)
+* Multi-scale Two-way Deep Neural Network for Stock Trend Prediction (IJCAI 2020)
+* Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction (IJCAI 2020)
 * CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets (IJCAI 2019)
+* Enhancing Stock Movement Prediction with Adversarial Training (IJCAI 2019)
 * Temporal Relational Ranking for Stock Prediction (TOIS 2019)
 * Stock Price Prediction via Discovering Multi-Frequency Trading Patterns (KDD 2017)
 * Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis (NeurIPS 2019)
-* HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction
 * Transformer-Based Capsule Network For Stock Movement Prediction (IJCAI 2019)
-* Forecasting the Dubai financial market with a combination of momentum effect with a deep belief network
 * Enhancing Stock Movement Prediction with Adversarial Training (IJCAI 2019)
-* A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series 
-* A Numerical-Based Attention Method for Stock Market Prediction With Dual Information
-* Cross-domain Deep Learning Approach for Multiple Financial Market Prediction (IJCNN 2018)
-* EAN: Event Attention Network for Stock Price Trend Prediction based on Sentimental Embedding
-* Financial series prediction using Attention LSTM
+* Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network (WWW 2019)
 * Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction (CIKM 2018)
 * Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News (CIKM 2018)
 * Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction (WSDM 2018)
+* Cross-domain Deep Learning Approach for Multiple Financial Market Prediction (IJCNN 2018)
 * Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection (ICONIP 2017)
 * A Multi-indicator Feature Selection for CNN-Driven Stock Index Prediction (ICONIP 2018)
-* Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach
 * Deep Learning for Event-Driven Stock Prediction (IJCAI 2015)
+* EAN: Event Attention Network for Stock Price Trend Prediction based on Sentimental Embedding
+* Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach
+* Financial series prediction using Attention LSTM
+* A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series 
+* A Numerical-Based Attention Method for Stock Market Prediction With Dual Information
+* Forecasting the Dubai financial market with a combination of momentum effect with a deep belief network
+* HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction
 * Is Deep Learning for Image Recognition Applicable to Stock Market Prediction
 * Stock price forecasting model based on modified convolution neural network and financial time series analysis
 * Stock price prediction using lstm, rnn and cnn-sliding window model
@@ -38,13 +44,12 @@ Financial Time Series Forecasting--A Deep Learning Approach
 * Forecasting daily stock market return using dimensionality reduction
 * Forecasting S&P 500 index using artificial neural networks and design of experiments
 * Forecasting stock market indexes using principle component analysis and stochastic time effective neural networks
-* Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network
 * Integrating metaheuristics and Artificial Neural Networks for improved stock price prediction
 * Predicting the direction of stock markets using optimized neural networks with Google Trends
 * Stock market one-day ahead movement prediction using disparate data sources
 * Anticipating Stock Market of the Renowned Companies: A Knowledge Graph Approach
 * Stock prediction using deep learning
-* Using structured events to predict stock price movement: An empirical investigation
+* Using structured events to predict stock price movement: An empirical investigation (EMNLP 2014)
 * Stock Market Prediction Based on Generative Adversarial Network
 * Stock Movement Prediction from Tweets and Historical Prices
 * Stock Price Prediction by Deep Neural Generative Model of News Articles
